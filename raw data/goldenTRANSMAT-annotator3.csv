@@ -1,0 +1,124 @@
+id,Doc,Target,Original_Value,Attached_Value,Type,Annotator,DOI
+0,Antiplasticisation and oxygen permeability of starch–sorbitol films,o2_permeability,"(['1.43', '×', '10', '^', '−', '16'], ['cm', '^', '3', 'cm', '/', 'cm', '^', '2', 's', 'Pa'])","['oxygen', 'permeability']",QUANTITY,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+1,Antiplasticisation and oxygen permeability of starch–sorbitol films,o2_permeability,"(['0.15', '×', '10', '^', '−', '16'], ['cm', '^', '3', 'cm', '/', 'cm', '^', '2', 's', 'Pa'])","['oxygen', 'permeability']",QUANTITY,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+2,Antiplasticisation and oxygen permeability of starch–sorbitol films,thickness,"(['0.5'], ['mm'])","['thick', 'films']",QUANTITY,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+3,Antiplasticisation and oxygen permeability of starch–sorbitol films,temperature,"(['20'], ['°', 'C'])",['Temperature'],QUANTITY,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+4,Antiplasticisation and oxygen permeability of starch–sorbitol films,relative_humidity,"(['0'], ['%'])",['ERH'],QUANTITY,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+5,Antiplasticisation and oxygen permeability of starch–sorbitol films,relative_humidity,"(['57'], ['%'])",['EHR'],QUANTITY,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+6,Antiplasticisation and oxygen permeability of starch–sorbitol films,o2_permeability,"(['934.6', '×', '10', '^', '−', '16'], ['cm', '^', '3', 'cm', '/', 'cm', '^', '2', 's', 'Pa'])",['permeability'],QUANTITY,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+7,Antiplasticisation and oxygen permeability of starch–sorbitol films,o2_permeability,"(['4.3', '×', '10', '^', '−', '16'], ['cm', '^', '3', 'cm', '/', 'cm', '^', '2', 's', 'Pa'])",['permeability'],QUANTITY,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+8,Antiplasticisation and oxygen permeability of starch–sorbitol films,o2_permeability,"(['200', '×', '10', '^', '−', '16'], ['cm', '^', '3', 'cm', '/', 'cm', '^', '2', 's', 'Pa'])",['permeability'],QUANTITY,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+9,Antiplasticisation and oxygen permeability of starch–sorbitol films,component_qty_value,"(['8.8'], ['%'])",['sorbitol'],ADDIMENTIONNAL,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+10,Antiplasticisation and oxygen permeability of starch–sorbitol films,component_qty_value,"(['23.8'], ['%'])",['water'],ADDIMENTIONNAL,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+11,Antiplasticisation and oxygen permeability of starch–sorbitol films,component_qty_value,"(['0'], '')",['sorbitol'],ADDIMENTIONNAL,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+12,Antiplasticisation and oxygen permeability of starch–sorbitol films,component_qty_value,"(['8.8'], '')",['sorbitol'],ADDIMENTIONNAL,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+13,Antiplasticisation and oxygen permeability of starch–sorbitol films,component_qty_value,"(['21.0'], '')",['sorbitol'],ADDIMENTIONNAL,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+14,Antiplasticisation and oxygen permeability of starch–sorbitol films,component_qty_value,"(['24.3'], '')",['sorbitol'],ADDIMENTIONNAL,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+15,Antiplasticisation and oxygen permeability of starch–sorbitol films,component_qty_value,"(['0'], ['%'])",['sorbitol'],ADDIMENTIONNAL,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+16,Antiplasticisation and oxygen permeability of starch–sorbitol films,component_qty_value,"(['28'], ['%'])",['sorbitol'],ADDIMENTIONNAL,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+17,Antiplasticisation and oxygen permeability of starch–sorbitol films,component_qty_value,"(['28.0'], ['%'])",['sorbitol'],ADDIMENTIONNAL,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+18,Antiplasticisation and oxygen permeability of starch–sorbitol films,component_qty_value,"(['29.0'], ['%'])",['water'],ADDIMENTIONNAL,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+19,Antiplasticisation and oxygen permeability of starch–sorbitol films,packaging,"['starch–sorbitol', 'films']",,SYMBOLIC,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+20,Antiplasticisation and oxygen permeability of starch–sorbitol films,packaging,"['sorbitol–starch–water', 'films']",,SYMBOLIC,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+21,Antiplasticisation and oxygen permeability of starch–sorbitol films,packaging,"['the', 'sample']",,SYMBOLIC,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+22,Antiplasticisation and oxygen permeability of starch–sorbitol films,method,"['ASTM', 'Standard', 'Method']",,SYMBOLIC,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+23,Antiplasticisation and oxygen permeability of starch–sorbitol films,packaging,['film'],,SYMBOLIC,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+24,Antiplasticisation and oxygen permeability of starch–sorbitol films,packaging,['EVOH'],,SYMBOLIC,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+25,Antiplasticisation and oxygen permeability of starch–sorbitol films,packaging,"['starch', 'films']",,SYMBOLIC,3,https://doi.org/10.1016/S0144-8617(99)00206-4
+26,Application of bioplastics for food packaging,o2_permeability,"(['420'], ['cm', '^', '3', '/', 'm', '^', '2', '/', '10', '^', '5', 'Pa', '/', 'day'])",['OTR'],QUANTITY,3,https://doi.org/10.1016/j.tifs.2013.06.003
+27,Application of bioplastics for food packaging,o2_permeability,"(['12'], ['cm', '^', '3', '/', 'm', '^', '2', '/', '10', '^', '5', 'Pa', '/', 'day'])",['OTR'],QUANTITY,3,https://doi.org/10.1016/j.tifs.2013.06.003
+28,Application of bioplastics for food packaging,o2_permeability,"(['400'], ['cm', '^', '3', '/', 'm', '^', '2', '/', '10', '^', '5', 'Pa', '/', 'day'])",['OTR'],QUANTITY,3,https://doi.org/10.1016/j.tifs.2013.06.003
+29,Application of bioplastics for food packaging,o2_permeability,"(['2'], ['cm', '^', '3', '/', 'm', '^', '2', '/', '10', '^', '5', 'Pa', '/', 'day'])",['OTR'],QUANTITY,3,https://doi.org/10.1016/j.tifs.2013.06.003
+30,Application of bioplastics for food packaging,h2o_permeability,"(['65'], ['g', '/', 'm', '^', '2', '/', 'day'])",['WVTR'],QUANTITY,3,https://doi.org/10.1016/j.tifs.2013.06.003
+31,Application of bioplastics for food packaging,h2o_permeability,"(['1'], ['g', '/', 'm', '^', '2', '/', 'day'])",['WVTR'],QUANTITY,3,https://doi.org/10.1016/j.tifs.2013.06.003
+32,Application of bioplastics for food packaging,h2o_permeability,"(['75'], ['g', '/', 'm', '^', '2', '/', 'day'])",['WVTR'],QUANTITY,3,https://doi.org/10.1016/j.tifs.2013.06.003
+33,Application of bioplastics for food packaging,component_qty_value,"(['35'], ['g', '/', 'm', '^', '2'])",['PLA'],ADDIMENTIONNAL,3,https://doi.org/10.1016/j.tifs.2013.06.003
+34,Application of bioplastics for food packaging,component_qty_value,"(['310'], ['g', '/', 'm', '^', '2'])",['AlOx'],ADDIMENTIONNAL,3,https://doi.org/10.1016/j.tifs.2013.06.003
+35,Application of bioplastics for food packaging,component_qty_value,"(['210'], ['g', '/', 'm', '^', '2'])",['AlOx'],ADDIMENTIONNAL,3,https://doi.org/10.1016/j.tifs.2013.06.003
+36,Application of bioplastics for food packaging,packaging,"['PLA-coated', 'paperboard']",,SYMBOLIC,3,https://doi.org/10.1016/j.tifs.2013.06.003
+37,Barrier and mechanical properties of carrot puree films,partial_pressure_difference,"(['0'], ['%'])",['RH'],QUANTITY,3,https://doi.org/10.1016/j.fbp.2010.03.012
+38,Barrier and mechanical properties of carrot puree films,partial_pressure_difference,"(['83', '±', '1'], ['%'])",['RH'],QUANTITY,3,https://doi.org/10.1016/j.fbp.2010.03.012
+39,Barrier and mechanical properties of carrot puree films,o2_permeability,"(['23', '±', '1'], ['°', 'C'])","['Oxygen', 'transmission', 'rates']",QUANTITY,3,https://doi.org/10.1016/j.fbp.2010.03.012
+40,Barrier and mechanical properties of carrot puree films,relative_humidity,"(['50', '±', '1'], ['%'])",['RH'],QUANTITY,3,https://doi.org/10.1016/j.fbp.2010.03.012
+41,Barrier and mechanical properties of carrot puree films,thickness,"(['0.099', '±', '0.004'], ['mm'])",['thickness'],QUANTITY,3,https://doi.org/10.1016/j.fbp.2010.03.012
+42,Barrier and mechanical properties of carrot puree films,thickness,"(['0.238', '±', '0.003'], ['mm'])",['thickness'],QUANTITY,3,https://doi.org/10.1016/j.fbp.2010.03.012
+43,Barrier and mechanical properties of carrot puree films,o2_permeability,"(['14.57', '±', '0.18'], ['cm', '^', '3', '/', 'm', 's', 'Pa'])","['oxygen', 'barriers']",QUANTITY,3,https://doi.org/10.1016/j.fbp.2010.03.012
+44,Barrier and mechanical properties of carrot puree films,o2_permeability,"(['20.27', '±', '0.07'], ['cm', '^', '3', '/', 'm', 's', 'Pa'])","['oxygen', 'barriers']",QUANTITY,3,https://doi.org/10.1016/j.fbp.2010.03.012
+45,Barrier and mechanical properties of carrot puree films,temperature,"(['25', '±', '1'], ['°', 'C'])",,QUANTITY,3,https://doi.org/10.1016/j.fbp.2010.03.012
+46,Barrier and mechanical properties of carrot puree films,temperature,"(['23', '±', '1'], ['°', 'C'])",,QUANTITY,3,https://doi.org/10.1016/j.fbp.2010.03.012
+47,Barrier and mechanical properties of carrot puree films,packaging,"['carrot', 'puree', 'films']",,SYMBOLIC,3,https://doi.org/10.1016/j.fbp.2010.03.012
+48,Barrier and mechanical properties of carrot puree films,method,"['ASTM', 'E96', '-', '95']",,SYMBOLIC,3,https://doi.org/10.1016/j.fbp.2010.03.012
+49,Barrier and mechanical properties of carrot puree films,method,"['ASTM', 'D3985', '-', '95']",,SYMBOLIC,3,https://doi.org/10.1016/j.fbp.2010.03.012
+50,Barrier and mechanical properties of carrot puree films,packaging,"['carrot', 'films']",,SYMBOLIC,3,https://doi.org/10.1016/j.fbp.2010.03.012
+51,Barrier and mechanical properties of carrot puree films,packaging,"['Carrot', 'puree', 'films']",,SYMBOLIC,3,https://doi.org/10.1016/j.fbp.2010.03.012
+52,Barrier and surface properties of chitosan-coated greaseproof paper,relative_humidity,"(['0'], ['%'])","['relative', 'humidity']",QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+53,Barrier and surface properties of chitosan-coated greaseproof paper,partial_pressure_difference,"(['1'], ['atm'])","['partial', 'pressure']",QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+54,Barrier and surface properties of chitosan-coated greaseproof paper,co2_permeability,"(['23'], ['°', 'C'])","['carbon', 'dioxide']",QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+55,Barrier and surface properties of chitosan-coated greaseproof paper,thickness,"(['85'], ['μm'])",['thickness'],QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+56,Barrier and surface properties of chitosan-coated greaseproof paper,thickness,"(['3.5'], ['μm'])",['thickness'],QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+57,Barrier and surface properties of chitosan-coated greaseproof paper,o2_permeability,"(['1.6'], ['cm', '^', '3', 'mm', '/', '(', 'm', '^', '2', '24', 'h', 'atm', ')'])",['OP'],QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+58,Barrier and surface properties of chitosan-coated greaseproof paper,o2_permeability,"(['0.7', '–', '1.8'], ['cm', '^', '3', 'mm', '/', '(', 'm', '^', '2', 'atm', 'day'])",['OP-values'],QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+59,Barrier and surface properties of chitosan-coated greaseproof paper,o2_permeability,"(['0.01', '–', '2'], ['cm', '^', '3', 'mm', '/', '(', 'day', 'm', '^', '2', 'atm', ')'])",['OP-values'],QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+60,Barrier and surface properties of chitosan-coated greaseproof paper,o2_permeability,"(['0.16', '×', '10', '^', '−', '5'], ['cm', '^', '3', 'mm', '/', '(', 'day', 'm', '^', '2', 'atm', ')'])",['OP-value'],QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+61,Barrier and surface properties of chitosan-coated greaseproof paper,relative_humidity,"(['65'], ['%'])",['RH'],QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+62,Barrier and surface properties of chitosan-coated greaseproof paper,co2_permeability,"(['71'], ['cm', '^', '3', 'mm', '/', '(', 'm', '^', '2', 'atm', 'day', ')'])","['carbon', 'dioxide']",QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+63,Barrier and surface properties of chitosan-coated greaseproof paper,co2_permeability,"(['0.001', '–', '10'], ['cm', '^', '3', 'mm', '/', '(', 'm', '^', '2', 'atm', 'day', ')'])","['carbon', 'dioxide']",QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+64,Barrier and surface properties of chitosan-coated greaseproof paper,temperature,"(['23'], ['°', 'C'])",,QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+65,Barrier and surface properties of chitosan-coated greaseproof paper,temperature,"(['37'], ['°', 'C'])",,QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+66,Barrier and surface properties of chitosan-coated greaseproof paper,temperature,"(['27'], ['°', 'C'])",,QUANTITY,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+67,Barrier and surface properties of chitosan-coated greaseproof paper,method,"['ASTM', 'D', '3985', '-', '95']",,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+68,Barrier and surface properties of chitosan-coated greaseproof paper,packaging,"['coated', 'material']",,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+69,Barrier and surface properties of chitosan-coated greaseproof paper,impact_factor_component,['coating'],,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+70,Barrier and surface properties of chitosan-coated greaseproof paper,impact_factor_component,"['base', 'paper']",,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+71,Barrier and surface properties of chitosan-coated greaseproof paper,packaging,"['coated', 'papers']",,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+72,Barrier and surface properties of chitosan-coated greaseproof paper,impact_factor_component,"['chitosan', 'film']",,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+73,Barrier and surface properties of chitosan-coated greaseproof paper,packaging,"['Paper', '2']",,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+74,Barrier and surface properties of chitosan-coated greaseproof paper,packaging,['papers'],,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+75,Barrier and surface properties of chitosan-coated greaseproof paper,impact_factor_component,['chitosan'],,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+76,Barrier and surface properties of chitosan-coated greaseproof paper,packaging,"['chitosan', 'films']",,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+77,Barrier and surface properties of chitosan-coated greaseproof paper,impact_factor_component,"['nitrocellulose', 'lacquer']",,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+78,Barrier and surface properties of chitosan-coated greaseproof paper,packaging,"['pure', 'chitosan', 'films']",,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+79,Barrier and surface properties of chitosan-coated greaseproof paper,packaging,"['poly', '(', 'ethylene', 'terephthalate', ')', '(', 'PETP', ')']",,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+80,Barrier and surface properties of chitosan-coated greaseproof paper,packaging,['EVOH'],,SYMBOLIC,3,https://doi.org/10.1016/j.carbpol.2006.02.005
+81,Barrier properties of chitosan coated polyethylene,relative humidity difference,"(['0', '–', '33'], ['%'])","['relative', 'humidity', 'differential']",QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+82,Barrier properties of chitosan coated polyethylene,relative humidity difference,"(['30', '–', '75'], ['%'])","['relative', 'humidity', 'differential']",QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+83,Barrier properties of chitosan coated polyethylene,relative humidity difference,"(['30', '–', '100'], ['%'])","['relative', 'humidity', 'differential']",QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+84,Barrier properties of chitosan coated polyethylene,temperature,"(['25', '±', '1'], ['°', 'C'])",['temperature'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+85,Barrier properties of chitosan coated polyethylene,h2o_permeability,"(['6.5', '×', '10', '^', '−', '13'], ['g', 'm', '/', 'm', '^', '2', 'Pa', 's'])",['WVP'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+86,Barrier properties of chitosan coated polyethylene,h2o_permeability,"(['7.1', '×', '10', '^', '−', '13'], ['g', 'm', '/', 'm', '^', '2', 'Pa', 's'])",['WVP'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+87,Barrier properties of chitosan coated polyethylene,h2o_permeability,"(['5', '×', '10', '^', '−', '13'], ['g', '/', 'm', 's', 'Pa'])",['WVP'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+88,Barrier properties of chitosan coated polyethylene,h2o_permeability,"(['0.55', '±', '0.05', '×', '10', '^', '−', '5'], ['g', '/', 'm', '^', '2', 's'])","['water', 'vapour', 'transmission', 'rate']",QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+89,Barrier properties of chitosan coated polyethylene,h2o_permeability,"(['1.84', '±', '0.08', '×', '10', '^', '−', '5'], ['g', '/', 'm', '^', '2', 's'])","['water', 'vapour', 'transmission', 'rate']",QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+90,Barrier properties of chitosan coated polyethylene,h2o_permeability,"(['2.55', '±', '0.39', '×', '10', '^', '−', '5'], ['g', '/', 'm', '^', '2', 's'])","['water', 'vapour', 'transmission', 'rate']",QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+91,Barrier properties of chitosan coated polyethylene,h2o_permeability,"(['14.92', '×', '10', '^', '−', '13'], ['g', '/', 'm', 's', 'Pa'])",['WVP'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+92,Barrier properties of chitosan coated polyethylene,h2o_permeability,"(['611.0', '×', '10', '^', '−', '13'], ['g', '/', 'm', 's', 'Pa'])",['WVP'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+93,Barrier properties of chitosan coated polyethylene,relative humidity difference,"(['50', '–', '100'], ['%'])",['RH'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+94,Barrier properties of chitosan coated polyethylene,h2o_permeability,"(['0.042', '×', '10', '^', '−', '10'], ['g', '/', 'm', 's', 'Pa'])",['WVP'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+95,Barrier properties of chitosan coated polyethylene,h2o_permeability,"(['0.22', '×', '10', '^', '−', '10'], ['g', '/', 'm', 's', 'Pa'])",['WVP'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+96,Barrier properties of chitosan coated polyethylene,h2o_permeability,"(['0.50', '×', '10', '^', '−', '10'], ['g', '/', 'm', 's', 'Pa'])",['WVP'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+97,Barrier properties of chitosan coated polyethylene,h2o_permeability,"(['7.00', '×', '10', '^', '−', '10'], ['g', '/', 'm', 's', 'Pa'])",['WVP'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+98,Barrier properties of chitosan coated polyethylene,h2o_permeability,"(['3.80', '×', '10', '^', '−', '10'], ['g', '/', 'm', 's', 'Pa'])",['WVP'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+99,Barrier properties of chitosan coated polyethylene,co2_permeability,"(['1.02', '×', '10', '^', '−', '17'], ['g', '/', 'm', 's', 'Pa'])",['PCO2'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+100,Barrier properties of chitosan coated polyethylene,o2_permeability,"(['6.18', '×', '10', '^', '−', '17'], ['g', '/', 'm', 's', 'Pa'])",['PO2'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+101,Barrier properties of chitosan coated polyethylene,o2_permeability,"(['2.08', '×', '10', '^', '−', '18'], ['g', '/', 'm', 's', 'Pa'])",['PO2'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+102,Barrier properties of chitosan coated polyethylene,o2_permeability,"(['2.66', '×', '10', '^', '−', '17'], ['g', '/', 'm', 's', 'Pa'])",['PO2'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+103,Barrier properties of chitosan coated polyethylene,co2_permeability,"(['2.08', '×', '10', '^', '−', '18'], ['g', '/', 'm', 's', 'Pa'])",['PCO2'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+104,Barrier properties of chitosan coated polyethylene,co2_permeability,"(['2.66', '×', '10', '^', '−', '17'], ['g', '/', 'm', 's', 'Pa'])",['PCO2'],QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+105,Barrier properties of chitosan coated polyethylene,o2_permeability,"(['883', '×', '10', '^', '−', '17'], ['g', '/', 'm', 's', 'Pa'])","['oxygen', 'permeability']",QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+106,Barrier properties of chitosan coated polyethylene,temperature,"(['25'], ['°', 'C'])",,QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+107,Barrier properties of chitosan coated polyethylene,temperature,"(['4'], ['°', 'C'])",,QUANTITY,3,https://doi.org/10.1016/j.memsci.2012.02.037
+108,Barrier properties of chitosan coated polyethylene,method,"['modified', 'ASTM', 'E96', '-', '80', '(', '1980', ')', 'standard', 'method']",,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+109,Barrier properties of chitosan coated polyethylene,packaging,['polypropylene'],,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+110,Barrier properties of chitosan coated polyethylene,packaging,"['polyvinyl', 'chloride']",,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+111,Barrier properties of chitosan coated polyethylene,packaging,"['untreated', 'PE']",,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+112,Barrier properties of chitosan coated polyethylene,packaging,"['chitosan', 'films']",,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+113,Barrier properties of chitosan coated polyethylene,packaging,['PE'],,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+114,Barrier properties of chitosan coated polyethylene,packaging,"['cast', 'and', 'extruded', 'glycerol', 'plasticized', 'oat', 'starch']",,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+115,Barrier properties of chitosan coated polyethylene,packaging,['methylcellulose'],,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+116,Barrier properties of chitosan coated polyethylene,packaging,"['glycerol', 'plasticized', 'wheat', 'gluten']",,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+117,Barrier properties of chitosan coated polyethylene,packaging,"['amylose', 'films']",,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+118,Barrier properties of chitosan coated polyethylene,packaging,"['chitosan', 'coated', 'PE', 'films']",,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+119,Barrier properties of chitosan coated polyethylene,packaging,"['chitosan', 'coated', 'PE']",,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+120,Barrier properties of chitosan coated polyethylene,packaging,"['CSA', 'film']",,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+121,Barrier properties of chitosan coated polyethylene,impact_factor_component,['solvent'],,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037
+122,Barrier properties of chitosan coated polyethylene,impact_factor_component,['glycerol'],,SYMBOLIC,3,https://doi.org/10.1016/j.memsci.2012.02.037

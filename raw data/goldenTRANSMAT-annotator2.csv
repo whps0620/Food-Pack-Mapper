@@ -1,0 +1,158 @@
+id,Doc,Target,Original_Value,Attached_Value,Type,Annotator,DOI
+0,Validation of a predictive model coupling gas transfer and microbial growth in fresh food packed under modified atmosphere,method,"['ASTM', 'D3985']",,SYMBOLIC,2,https://doi.org/10.1016/j.fm.2016.03.011
+1,Validation of a predictive model coupling gas transfer and microbial growth in fresh food packed under modified atmosphere,packaging,"['OPET', '/', 'EVOH', '/', 'PE']",,SYMBOLIC,2,https://doi.org/10.1016/j.fm.2016.03.011
+2,Validation of a predictive model coupling gas transfer and microbial growth in fresh food packed under modified atmosphere,packaging,['PE'],,SYMBOLIC,2,https://doi.org/10.1016/j.fm.2016.03.011
+3,Validation of a predictive model coupling gas transfer and microbial growth in fresh food packed under modified atmosphere,packaging,"['PET', '/', 'SiOx', '/', 'PA', '/', 'Peel', '/', 'PP']",,SYMBOLIC,2,https://doi.org/10.1016/j.fm.2016.03.011
+4,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,component_qty_value,"(['4'], ['%'])",['starch'],ADDIMENTIONNAL,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+5,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,component_qty_value,"(['20'], ['%'])",['glycerol'],ADDIMENTIONNAL,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+6,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,component_qty_value,"(['3'], ['%'])",['CNC'],ADDIMENTIONNAL,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+7,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,packaging,"['starch', 'films', 'reinforced', 'with', 'cellulose', 'nanocrystals']",,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+8,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,impact_factor_component,"['Cellulose', 'nanocrystals']",,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+9,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,impact_factor_component,['CNC'],,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+10,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,packaging,"['Starch', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+11,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,packaging,"['starch', '/', 'CNC']",,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+12,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,impact_factor_component,['starch'],,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+13,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,packaging,"['reinforced', 'starch', '/', 'CNC', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+14,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,packaging,"['starch', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+15,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,impact_factor_component,['Polysaccharides'],,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+16,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,packaging,['starch'],,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+17,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,impact_factor_component,"['cellulose', 'derivates']",,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+18,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,impact_factor_component,"['plant', 'gums']",,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+19,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,impact_factor_component,['Cellulose'],,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+20,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,method,"['ASTM', 'E96', 'method']",,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+21,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,impact_factor_component,"['corn', 'starch']",,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+22,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,impact_factor_component,['Glycerol'],,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+23,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,packaging,"['starch', '/', 'CNC', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+24,Water barrier properties of starch films reinforced with cellulose nanocrystals obtained from sugarcane bagasse,method,"['ASTM', 'E96']",,SYMBOLIC,2,https://doi.org/10.1016/j.carbpol.2014.03.049
+25,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,relative_humidity,"(['60'], ['%'])","['relative', 'humidity']",QUANTITY,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+26,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,temperature,"(['23'], ['°', 'C'])",['temperature'],QUANTITY,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+27,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,relative_humidity,"(['0'], ['%'])",['RH'],QUANTITY,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+28,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,h2o_permeability,"(['7.1', '×', '10', '^', '−', '4'], ['g', 'mm', '/', 'kPa', 'min', 'm', '^', '2'])",['WVP'],QUANTITY,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+29,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,h2o_permeability,"(['2000'], ['cc', '/', 'm', '^', '2', '×', 'day'])",['OTR'],QUANTITY,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+30,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,o2_permeability,"(['466'], ['cc', '/', 'm', '^', '2', '×', 'day'])",['OTR'],QUANTITY,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+31,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,temperature,"(['25'], ['°', 'C'])",,QUANTITY,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+32,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,component_qty_value,"(['5'], ['%'])",['Corn–zein'],ADDIMENTIONNAL,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+33,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,component_qty_value,"(['15'], ['%'])",['Corn–zein'],ADDIMENTIONNAL,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+34,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,component_qty_value,"(['20'], ['%'])",['GLY'],ADDIMENTIONNAL,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+35,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,component_qty_value,"(['50'], ['%'])",['GLY'],ADDIMENTIONNAL,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+36,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,component_qty_value,"(['%'], '')",['Corn–zein'],ADDIMENTIONNAL,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+37,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,"['corn–zein', 'coated', 'polypropylene', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+38,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,"['corn–zein', 'coated', 'polypropylene', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+39,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['polypropylene'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+40,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['PP'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+41,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,"['polyethylene', 'glycol']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+42,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['PEG'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+43,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['glycerol'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+44,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['GLY'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+45,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,"['corona-discharged-treated', 'PP']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+46,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,"['ethylene', 'vinyl', 'alcohol']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+47,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['EVOH'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+48,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,"['polyvinylidene', 'chloride']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+49,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['PVDC'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+50,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,"['thermoplastic', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+51,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['polysaccharides'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+52,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['starch'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+53,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['cellulose'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+54,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['chitosan'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+55,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['chitin'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+56,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,"['whey', 'protein']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+57,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['corn–zein'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+58,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,"['wheat', 'gluten']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+59,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,"['soy', 'protein']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+60,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,['Polypropylene'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+61,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['Polypropylene'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+62,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,['PP'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+63,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,"['Commercial', 'corona-discharged-treated', 'polypropylene']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+64,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,impact_factor_component,['Polyethyleneglycol'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+65,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,"['CORN–ZEIN', 'COATED', 'PP', 'FILMS']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+66,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,method,"['ASTM', 'E96', 'standard', 'method']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+67,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,method,"['OX-TRAN', '2', '(', 'MOCON', ',', 'Minneapolis', ',', 'MN', ',', 'USA', ')', 'according', 'to', 'the', 'ASTM', 'D3985', 'standard']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+68,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,"['corn–zein', 'coated', 'PP', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+69,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,"['PP', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+70,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,"['PP', 'film']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+71,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,"['low', 'density', 'polyethylene']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+72,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,['LDPE'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+73,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,"['high-density', 'polyethylene']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+74,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,['HDPE'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+75,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,['polystyrene'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+76,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,['PS'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+77,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,"['poly', '(', 'vinyl', 'chloride', ')']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+78,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,['PVC'],,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+79,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,"['corn–zein', 'coated', 'LDPE', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+80,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,"['LDPE', 'films', 'coated', 'with', 'zein']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+81,Water vapor and oxygen-barrier performance of corn–zein coated polypropylene films,packaging,"['plasticized', 'corn–zein', 'coatings', 'on', 'polypropylene', '(', 'PP', ')', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/j.jfoodeng.2009.08.018
+82,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",h2o_permeability,"(['0.232', '×', '10', '^', '−', '10', '–', '1.160', '×', '10', '^', '−', '10'], ['g', '/', 'm', 's', 'Pa'])",['WVP'],QUANTITY,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+83,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",h2o_permeability,"(['0.0087', '×', '10', '^', '−', '10'], ['g', '/', 'm', 's', 'Pa'])",['WVP'],QUANTITY,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+84,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",h2o_permeability,"(['0.0022', '×', '10', '^', '−', '10'], ['g', '/', 'm', 's', 'Pa'])",['WVP'],QUANTITY,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+85,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",temperature,"(['25', '±', '1'], ['°', 'C'])",,QUANTITY,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+86,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",packaging,"['methylcellulose-based', 'edible', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+87,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",impact_factor_component,['methylcellulose'],,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+88,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",packaging,['methylcellulose'],,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+89,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",impact_factor_component,['MC'],,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+90,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",packaging,"['films', 'plasticized', 'by', 'polyethylene', 'glycol']",,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+91,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",impact_factor_component,"['films', 'plasticized', 'by', 'polyethylene', 'glycol']",,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+92,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",impact_factor_component,['PEG'],,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+93,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",packaging,"['MC', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+94,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",packaging,"['Methylcellulose', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+95,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",packaging,"['Cellulose-derivative-based', 'edible', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+96,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",impact_factor_component,['PEG400'],,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+97,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",impact_factor_component,['PEG1450'],,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+98,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",impact_factor_component,['PEG4000'],,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+99,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",impact_factor_component,['PEG8000'],,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+100,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",method,"['modified', 'ASTM', 'E96', '-', '80']",,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+101,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",packaging,['high'],,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+102,"Water vapor permeability, tensile properties and solubility of methylcellulose-based edible films",packaging,"['low', 'density', 'polyethylene', 'films']",,SYMBOLIC,2,https://doi.org/10.1016/S0260-8774(03)00155-9
+103,Water vapour permeability of poly(lactic acid) nanocomposites,relative_humidity,"(['90'], ['%'])","['relative', 'humidity']",QUANTITY,2,https://doi.org/10.1016/j.memsci.2013.06.008
+104,Water vapour permeability of poly(lactic acid) nanocomposites,thickness,"(['0.6'], ['mm'])",['thickness'],QUANTITY,2,https://doi.org/10.1016/j.memsci.2013.06.008
+105,Water vapour permeability of poly(lactic acid) nanocomposites,temperature,"(['38'], ['°', 'C'])",,QUANTITY,2,https://doi.org/10.1016/j.memsci.2013.06.008
+106,Water vapour permeability of poly(lactic acid) nanocomposites,component_qty_value,"(['1'], ['wt', '%'])","['montmorillonite', 'layered', 'silicate']",ADDIMENTIONNAL,2,https://doi.org/10.1016/j.memsci.2013.06.008
+107,Water vapour permeability of poly(lactic acid) nanocomposites,component_qty_value,"(['6'], ['wt', '%'])","['montmorillonite', 'layered', 'silicate']",ADDIMENTIONNAL,2,https://doi.org/10.1016/j.memsci.2013.06.008
+108,Water vapour permeability of poly(lactic acid) nanocomposites,component_qty_value,"(['2'], ['%'])","['synthetic', 'mica']",ADDIMENTIONNAL,2,https://doi.org/10.1016/j.memsci.2013.06.008
+109,Water vapour permeability of poly(lactic acid) nanocomposites,component_qty_value,"(['5'], ['%'])",['nanoclay'],ADDIMENTIONNAL,2,https://doi.org/10.1016/j.memsci.2013.06.008
+110,Water vapour permeability of poly(lactic acid) nanocomposites,component_qty_value,"(['20'], ['%'])",['PMMA'],ADDIMENTIONNAL,2,https://doi.org/10.1016/j.memsci.2013.06.008
+111,Water vapour permeability of poly(lactic acid) nanocomposites,component_qty_value,"(['13'], ['%'])",['clay'],ADDIMENTIONNAL,2,https://doi.org/10.1016/j.memsci.2013.06.008
+112,Water vapour permeability of poly(lactic acid) nanocomposites,component_qty_value,"(['12'], ['%'])",['d-lactide'],ADDIMENTIONNAL,2,https://doi.org/10.1016/j.memsci.2013.06.008
+113,Water vapour permeability of poly(lactic acid) nanocomposites,component_qty_value,"(['1.4'], ['%'])",['d-lactide'],ADDIMENTIONNAL,2,https://doi.org/10.1016/j.memsci.2013.06.008
+114,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['poly', '(', 'lactic', 'acid', ')', 'nanocomposites']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+115,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['PLA', 'nanocomposites']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+116,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,['montmorillonite'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+117,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,"['Nanoclay', 'particles']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+118,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['poly', '(', 'lactic', 'acid', ')']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+119,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,"['poly', '(', 'lactic', 'acid', ')']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+120,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,['PLA'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+121,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,['nanocomposites'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+122,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,"['Poly', '(', 'lactic', 'acid', ')']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+123,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['Poly', '(', 'lactic', 'acid', ')']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+124,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,['Polylactide'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+125,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,['Montmorillonite'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+126,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,['Nanocomposite'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+127,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,['PLA'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+128,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,['thermoplastic'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+129,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,['polymers'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+130,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['poly', '(', 'lactide', ')']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+131,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,['l-lactide'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+132,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,['d-lactide'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+133,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,['meso-lactide'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+134,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,['thermoplastics'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+135,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,['compostable'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+136,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['biodegradable', 'polymers']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+137,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,['polyester'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+138,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['polymer', '/', 'clay', 'nanocomposites', '.']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+139,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,['nanoclay'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+140,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['polyimide–clay', 'nanocomposites']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+141,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,"['clay', 'mineral']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+142,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,['hectorite'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+143,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,['saponite'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+144,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,"['synthetic', 'mica']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+145,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['polyimide–mica', 'composite']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+146,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['unfilled', 'polyimide']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+147,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,"['clay', 'platelets']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+148,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['polymer', 'nanocomposites']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+149,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['PLA', 'composite', 'film']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+150,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,"['Cloisite', '20A']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+151,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['PLA', '/', 'clay', 'nanocomposites']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+152,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,"['montmorillonite', 'layered', 'silicate']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+153,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,"['Ingeo', '^', '™', '4060D']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+154,Water vapour permeability of poly(lactic acid) nanocomposites,packaging,['4032D'],,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+155,Water vapour permeability of poly(lactic acid) nanocomposites,impact_factor_component,"['Cloisite', '^', '®', '30B']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
+156,Water vapour permeability of poly(lactic acid) nanocomposites,method,"['MOCON', '(', 'Modern', 'Controls', 'Inc', '.', ',', 'USA', ')', 'Permatran-W', '@', '398']",,SYMBOLIC,2,https://doi.org/10.1016/j.memsci.2013.06.008
